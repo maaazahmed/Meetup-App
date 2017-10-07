@@ -1,0 +1,54 @@
+
+   body{
+    background-image: url("https://case.edu/events/media/caseedu/events/images/Calendar-2152x1413.jpg");
+    background-repeat: repeat;
+    background-size: 110%;   
+}
+
+.home_login_button_div{
+    margin-left: 410px;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-weight: bolder;
+    opacity: 1;
+    word-spacing: 20px;
+    background-color: #171B1F
+   
+}
+
+
+.going_button{
+    margin-left: 10px; 
+    margin-top: 70px; 
+    width: 200px;
+    background-color:#28a745;
+}
+.going_button:hover{
+    background-color: #fff;
+    color: #28a745;
+    border: solid 2px #28a745;
+}
+
+
+.not_going_button{
+    margin-left: 10px; 
+    margin-top: 70px; 
+    width: 200px;
+    background-color:#dc3545;
+}
+.not_going_button:hover{
+    background-color: #fff;
+    color: #dc3545;
+    border: solid 2px #dc3545;
+}
+.erroe_alert{
+    margin-left: 12px; 
+    margin-top: 70px;
+    color:#dc3545;
+    width: 925px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: underline;
+}
